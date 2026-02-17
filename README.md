@@ -45,6 +45,18 @@ This repository serves as:
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Violetflame124610&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Violetflame124610&theme=tokyonight" />
+</p>
+
+
+
 ## 🚀 Future Plans
 
 - Add more advanced full-stack projects  
